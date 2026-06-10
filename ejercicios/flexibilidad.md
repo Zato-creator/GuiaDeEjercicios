@@ -8,3 +8,9 @@ Los ejercicios de flexibilidad buscan aumentar el rango de movimiento de músculo
 - Mejora la movilidad diaria
 - Alivia la tensión muscular
 - Mejora la postura corporal
+
+## Cómo realizarlo
+1. Busca un espacio cómodo y tranquilo.
+2. Calienta el cuerpo con caminata o trote suave.
+3. Mantén cada estiramiento 20-30 segundos.
+4. No rebotes, el movimiento debe ser suave.
