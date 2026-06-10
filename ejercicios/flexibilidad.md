@@ -14,3 +14,8 @@ Los ejercicios de flexibilidad buscan aumentar el rango de movimiento de músculo
 2. Calienta el cuerpo con caminata o trote suave.
 3. Mantén cada estiramiento 20-30 segundos.
 4. No rebotes, el movimiento debe ser suave.
+
+## Consejos y precauciones
+- Nunca estires hasta sentir dolor agudo.
+- Respira profundo durante cada estiramiento.
+- Hazlo al menos 3 veces por semana.
